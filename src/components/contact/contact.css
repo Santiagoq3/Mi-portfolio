@@ -9,8 +9,12 @@
 .contact-bg{
     width: 20px;
     height: 100%;
-    background-color: tomato;
+    background-color: #59b256;
     position: absolute;
+}
+
+.contact-signo{
+    color: #59b256;
 }
 
 .contact-wrapper{
@@ -83,7 +87,7 @@ textarea{
 button{
     border: none;
     padding: 15px;
-    background-color: tomato;
+    background-color: #59b256;
     color: white;
     font-weight: 500;
     cursor: pointer;

@@ -26,7 +26,7 @@ export const Contact = () => {
             </div>
             <div className='contact-wrapper'>
                 <div className='contact-left'>
-                    <h1 className='contact-title'>Contactame!</h1>
+                    <h1 className='contact-title'>Contactame<span className='contact-signo'>!</span></h1>
                     <div className='contanct-info'>
                         <div className='contact-info-item'>
                             <i className="fas fa-phone-square-alt"></i>

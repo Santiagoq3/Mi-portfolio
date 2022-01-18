@@ -17,7 +17,7 @@ export const Intro = () => {
                         </div>
                     </div>
                     <div className='intro-description'>
-                    Programador hace mas de dos años, orientado al desarrollo web trabajando con tecnologias Front-end y Backend-end con javasc
+                    Programador hace mas de dos años, orientado al desarrollo web trabajando con tecnologias Front-end y Backend-end.
                     </div>
                 </div>
 

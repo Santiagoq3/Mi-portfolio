@@ -1,6 +1,9 @@
 import React from 'react'
 import "./project.css"
-export const Project = () => {
+
+export const Project = ({link,foto}) => {
+
+
     return (
         <div className='project'>
             <div className='projet-browser'>
@@ -14,7 +17,10 @@ export const Project = () => {
 
                 </div>
             </div>
-            <a href='https://santiagoq3.github.io/DictionaryApp/' target="_blank">project</a>
+            <a href={link} target="_blank">
+
+                <img src={foto} className='project-img' />
+            </a>
         </div>
     )
 }
