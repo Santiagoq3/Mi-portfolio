@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Mi-portfolio/static/css/main.c415c2a2.css",
+    "main.js": "/Mi-portfolio/static/js/main.e1a38967.js",
+    "static/media/blogrladingpage.png": "/Mi-portfolio/static/media/blogrladingpage.b721eaf0a827e1ca7194.png",
+    "static/media/productpagecomponent.png": "/Mi-portfolio/static/media/productpagecomponent.83db3d60abe578d7380f.png",
+    "static/media/restserver.png": "/Mi-portfolio/static/media/restserver.efd76a713db9a1269513.png",
+    "static/media/linkedinclone.png": "/Mi-portfolio/static/media/linkedinclone.dadc68bd09dc74c95fef.png",
+    "static/media/countriesspa.png": "/Mi-portfolio/static/media/countriesspa.b5993014f429b0e4bc33.png",
+    "static/media/santy.jpeg": "/Mi-portfolio/static/media/santy.c715acf6aacd2e565cbd.jpeg",
+    "index.html": "/Mi-portfolio/index.html",
+    "main.c415c2a2.css.map": "/Mi-portfolio/static/css/main.c415c2a2.css.map",
+    "main.e1a38967.js.map": "/Mi-portfolio/static/js/main.e1a38967.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c415c2a2.css",
+    "static/js/main.e1a38967.js"
+  ]
+}
